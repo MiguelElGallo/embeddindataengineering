@@ -29,7 +29,7 @@ display(df)
 
 ![Screeshot of adding lakehouse to notebook](resources/images/AddLakehouse.png)
 
-3. Upload the file /resources/dairy_products to your lakehouse
+3. Upload the file [/resources/dairy_products](/resources/dairy_products.csv) to your lakehouse
 
 More info [here](https://learn.microsoft.com/en-us/fabric/data-engineering/load-data-lakehouse#local-file-upload)
 
@@ -56,5 +56,7 @@ df['vector'] = df["text_to_embedd"].apply(lambda x : get_embedding(x, engine = '
 ```
 
 In the last line just update dep-ada002, that is the name of the your deployment from step 4.
+
+7. Press the Run All in the notebook. The Notebooks takes like 30 seconds to run.
 
 
