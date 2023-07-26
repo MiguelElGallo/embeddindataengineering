@@ -33,7 +33,7 @@ display(df)
 
 More info [here](https://learn.microsoft.com/en-us/fabric/data-engineering/load-data-lakehouse#local-file-upload)
 
-I you don not want to alter the first cell of your Notebook, then create the folder structure /masterdata/product_hier/ and upload the file in that folder.
+I you do not want to alter the first cell of your Notebook, then create the folder structure /masterdata/product_hier/ and upload the file in that folder.
 
 ![Screeshot folder structure](resources/images/folders.png)
 
