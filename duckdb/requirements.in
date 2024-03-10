@@ -1,0 +1,5 @@
+python-dotenv
+pandas
+duckdb
+openai
+langchain-openai
