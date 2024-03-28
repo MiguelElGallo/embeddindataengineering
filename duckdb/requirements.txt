@@ -9,7 +9,6 @@ annotated-types==0.6.0
 anyio==4.3.0
     # via
     #   httpx
-    #   langchain-core
     #   openai
 certifi==2024.2.2
     # via
@@ -39,7 +38,7 @@ jsonpatch==1.33
     # via langchain-core
 jsonpointer==2.4
     # via jsonpatch
-langchain-core==0.1.30
+langchain-core==0.1.35
     # via langchain-openai
 langchain-openai==0.0.8
     # via -r requirements.in
