@@ -73,7 +73,7 @@ pyyaml==6.0.1
     # via langchain-core
 regex==2023.12.25
     # via tiktoken
-requests==2.31.0
+requests==2.32.0
     # via
     #   langchain-core
     #   langsmith
