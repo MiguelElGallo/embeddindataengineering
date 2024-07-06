@@ -10,7 +10,7 @@ anyio==4.3.0
     # via
     #   httpx
     #   openai
-certifi==2024.2.2
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
@@ -73,7 +73,7 @@ pyyaml==6.0.1
     # via langchain-core
 regex==2023.12.25
     # via tiktoken
-requests==2.31.0
+requests==2.32.2
     # via
     #   langchain-core
     #   langsmith
@@ -99,5 +99,5 @@ typing-extensions==4.10.0
     #   pydantic-core
 tzdata==2024.1
     # via pandas
-urllib3==2.2.1
+urllib3==2.2.2
     # via requests
