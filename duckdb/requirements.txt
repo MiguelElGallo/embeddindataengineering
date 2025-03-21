@@ -38,7 +38,7 @@ jsonpatch==1.33
     # via langchain-core
 jsonpointer==2.4
     # via jsonpatch
-langchain-core==0.1.35
+langchain-core==0.1.53
     # via langchain-openai
 langchain-openai==0.0.8
     # via -r requirements.in
@@ -75,7 +75,6 @@ regex==2023.12.25
     # via tiktoken
 requests==2.32.3
     # via
-    #   langchain-core
     #   langsmith
     #   tiktoken
 six==1.16.0
